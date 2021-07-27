@@ -1,0 +1,4 @@
+name: Heads
+version: ${project.version}
+main: me.kvlike.heads.Heads
+api-version: 1.16
